@@ -8,8 +8,6 @@ run this python program with the populated accesslog table. When the calculation
 already be recorded in the database and the Views provided by the Browsing History Recommender module can now be used.
 
 ## Usage
-Clone/download the repository.
-
 ```bash
 pip install -r requirements.txt
 ```
