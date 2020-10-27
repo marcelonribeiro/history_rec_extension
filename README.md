@@ -1,6 +1,6 @@
 # Browsing History Recommender module alternative training
 
-A Python program that can improve the execution of the similarity calculation of the Browsing History Recommender module 
+A little script in Python that can improve the execution of the similarity calculation of the Browsing History Recommender module 
 of Drupal (https://www.drupal.org/project/history_rec), using NumPy and pandas, for the item-to-item collaborative filter.
 Only for anonymous users of the site, using the data in the accesslog table. It aims to replace the step:
 drush recommender-run, to be able to work with a large amount of data. Instead of running this drush command, 
